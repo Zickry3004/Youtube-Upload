@@ -1,0 +1,11 @@
+<html>
+  <head>
+     <title>Audio in HTML using Notepad</title>
+</head>
+<body>
+</body>
+
+    <audio src="C:\Users\user\Documents\HTML SONG CODE\Jamie Miller(Here's Your Perfect).mp3" controls></audio>
+
+
+</html>
